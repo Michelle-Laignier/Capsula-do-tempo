@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", //formata o código de forma automática
+    "PKief.material-icon-theme", //deixa ícones mais bonitos
+    "rocketseat.theme-omni",
+    "ritwickdey.LiveServer"
+  ]
+}
