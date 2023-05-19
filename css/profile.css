@@ -1,6 +1,7 @@
 .profile {
   align-items: center;
-  background-image: url("./assets/background.svg");
+  animation: entering 6s;
+  background-image: url("../assets/background.svg");
   background-size: cover;
   border-image: linear-gradient(#727275, #2c2c31) 1;
   border-right: 1px solid;
@@ -9,6 +10,7 @@
   gap: 20px;
   grid-area: profile;
   justify-content: center;
+  z-index: 2;
 }
 
 .profile-img {
