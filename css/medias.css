@@ -11,17 +11,17 @@
   .profile {
     animation: none;
     border-right: none;
-    gap: 10px;
-    padding-bottom: 2rem;
+    gap: 15px;
+    padding: 3rem 0;
   }
 
-  .profile img {
-    height: 120px;
-    width: 120px;
+  .profile-img {
+    height: 130px;
+    width: 130px;
   }
 
   .profile-nome {
-    font-size: 22px;
+    font-size: 24px;
     line-height: 30px;
   }
 
@@ -34,7 +34,7 @@
   }
 
   .container {
-    margin-right: 1rem;
+    margin: 2rem;
   }
 
   .container small {
@@ -42,18 +42,17 @@
   }
 
   .container a {
-    font-size: 12px;
+    font-size: 18px;
   }
 
   .container img {
     height: auto;
-    width: 75%;
+    width: 100%;
   }
 
   .container p {
-    font-size: 10px;
-    line-height: 1.2rem;
-    padding-right: 3rem;
+    font-size: 12px;
+    line-height: 1.4rem;
   }
 
   @keyframes medias {
