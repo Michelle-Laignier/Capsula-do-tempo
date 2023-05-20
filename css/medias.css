@@ -56,11 +56,15 @@
   }
 
   @keyframes medias {
-    from {
+    0% {
+      background-color: black;
       opacity: 0;
       transform: translateY(-200px);
     }
-    to {
+    75% {
+      background-color: black;
+    }
+    100% {
       opacity: 1;
       transform: translateY(0);
     }
